@@ -1,0 +1,3 @@
+/home/yusuf/CLionProjects/DnsServer/cmake-build-debug/CMakeFiles/DnsServer.dir
+/home/yusuf/CLionProjects/DnsServer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yusuf/CLionProjects/DnsServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
