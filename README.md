@@ -36,9 +36,9 @@ Start the server
   ./main
 ```
 
-For Test nslookup example.com 127.0.0.1
+For Test
 
 ```bash
-  ./main
+  nslookup example.com 127.0.0.1
 ```
 
